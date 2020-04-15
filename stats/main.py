@@ -10,7 +10,7 @@ def init():
 	log.init()
 	config.load()
 	bot.init()
-	logger = logging.getLogger('conflux-bot')
+	logger = logging.getLogger('stats-bot')
 
 def entrypoint():
 	init()

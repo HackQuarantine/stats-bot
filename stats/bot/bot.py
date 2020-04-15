@@ -5,7 +5,7 @@ from discord.ext import commands
 
 import stats.util.config as config
 
-logger = logging.getLogger('conflux-bot')
+logger = logging.getLogger('stats-bot')
 
 def init():
     global bot

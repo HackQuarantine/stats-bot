@@ -2,7 +2,7 @@ import sys
 import json
 import logging
 
-logger = logging.getLogger('conflux-bot')
+logger = logging.getLogger('stats-bot')
 
 CONFIG_PATH = 'creds.json'
 
