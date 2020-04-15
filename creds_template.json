@@ -1,6 +1,6 @@
 {
     "discord": {
-        "token":"",
-        "server_id":""
+        "token":"<your Discord bot's token>",
+        "server_id":"<the Discord server's ID as a string>"
     }
 }
